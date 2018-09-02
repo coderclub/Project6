@@ -3,7 +3,7 @@ package com.primitivedatatypes;
 public class ByteShortIntLong {
 
 	public static void main(String[] args) {
-		
+		//good job
 		byte myByteValue = 10;
 		System.out.println(myByteValue);
 		
